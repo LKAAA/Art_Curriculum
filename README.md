@@ -11,7 +11,9 @@ Based on the curriculum by Radio Runner [post](https://www.reddit.com/r/learnart
 ## Unit 1 - Figure Drawing 1
 
 [] [Figure Drawing For All Its Worth by Andrew Loomis](https://archive.org/details/loomis_FIGURE_draw/mode/2up)
+
 [] [Figure Drawing Fundamentals by Richard Smitheman](https://www.youtube.com/watch?v=gpH8T2CRlLI&list=PLOdcfV19K7l_jsEvr83SKOj-qAuBXodE4&ab_channel=RichardSmitheman)
+
 [] [Proko Figure Drawing Fundamentals](https://www.proko.com/course/figure-drawing-fundamentals/lessons)
 
 > [] One month gesture drawing challenge [post](https://straykeyframe.com/do-the-one-month-gesture-drawing-challenge-includes-tutorial)
