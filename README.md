@@ -23,6 +23,7 @@ Based on the curriculum by Radio Runner [post](https://www.reddit.com/r/learnart
  [] [🆓 Drawabox Lessons 0-3](https://drawabox.com/lesson/0), [all lessons](https://docs.google.com/spreadsheets/d/1R4msWQRk4g-fSlJ8Kn6N9QSarws7DAMm3ZKqTgkgTmA/edit#gid=0)
 
 > [] [250 box challenge](https://drawabox.com/lesson/250boxes)
+
 > [] [250 cylinder challenge](https://drawabox.com/lesson/250cylinders)
 
 ## Unit 3 - Composition and storytelling 1
@@ -34,6 +35,7 @@ Based on the curriculum by Radio Runner [post](https://www.reddit.com/r/learnart
  [] [🆓 Sycra: Effective composition using shapes](https://www.youtube.com/watch?v=SNmwQumlvbQ)
 
 > [] [Watch Sycra's video about iterative drawing and iterate on 5 compositions, 10x each](https://www.youtube.com/watch?v=k0ufz75UvHs)
+
 > [] Thumbnail 50 favorite movie scenes from [film-grab](www.filmgrab.com)
 
 # Term 2
@@ -65,7 +67,9 @@ Based on the curriculum by Radio Runner [post](https://www.reddit.com/r/learnart
 [] [🆓 ModernDayJames: Perspective 6](https://youtu.be/FF8XgTQmoPg)
 
 > [] [100 Treasure chest challenge](https://drawabox.com/lesson/100chests)
+
 > [] Rotate 50 boxes
+
 > [] Rotate 50 cylinders
 
 ## Unit 3 - Anatomy 2 - The Torso
@@ -75,6 +79,9 @@ Based on the curriculum by Radio Runner [post](https://www.reddit.com/r/learnart
 [] [🆓 Proko torso anatomy](https://www.youtube.com/playlist?list=PLo1MyIYOwxxyd_9kkipZV9gnJTYAPAXNG)
 
 > [] 100 Exaggerated Gestures:
+
 a. draw the gesture of a reference.
+
 b. mannequinize it.
+
 c. draw a new, exaggerated gesture based on mannequin
