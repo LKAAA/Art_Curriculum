@@ -36,7 +36,7 @@ Based on the curriculum by Radio Runner [post](https://www.reddit.com/r/learnart
 
 > [] [Watch Sycra's video about iterative drawing and iterate on 5 compositions, 10x each](https://www.youtube.com/watch?v=k0ufz75UvHs)
 
-> [] Thumbnail 50 favorite movie scenes from [film-grab](www.filmgrab.com)
+> [] Thumbnail 50 favorite movie scenes from [film-grab](https://film-grab.com)
 
 # Term 2
 
